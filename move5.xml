@@ -73,7 +73,4 @@
       <block type="movement_stop" id="131"></block>
     </next>
   </block>
-  <block type="math_bitwise" id="78" inline="true" x="-6" y="230">
-    <field name="OP">AND</field>
-  </block>
 </xml>
